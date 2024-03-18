@@ -44,7 +44,7 @@ paths:
       operationId: register
       responses:
         '200':
-          description: successfully registered devices
+          description: successfully registered device
       requestBody:
         content:
           application/json:
