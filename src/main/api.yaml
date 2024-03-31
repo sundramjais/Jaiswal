@@ -1,10 +1,7 @@
 openapi: 3.0.0
 servers:
   # Added by API Auto Mocking Plugin
-  - description: SwaggerHub API Auto Mocking
-    url: https://virtserver.swaggerhub.com/SUNDRAMJAIS/MyFirst/1.0.0
-info:
-  version: "1.0.0"
+  - description: Sw
   title: home-iot-api
   description: The API for the EatBacon IOT project
 paths:
